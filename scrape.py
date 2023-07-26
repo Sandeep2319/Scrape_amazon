@@ -26,6 +26,7 @@ def get_price(soup):
     except AttributeError as e:
         price = ""
 
+    print(price)
     return price
     
 
