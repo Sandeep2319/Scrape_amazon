@@ -14,10 +14,10 @@
 ## Prerequisite section 
 
 - install python with pip
-- install requests
-- install numpy
-- install pandas
-- install bs4
+- pip install requests
+- pip install numpy
+- pip install pandas
+- pip install bs4
 
 ## How to run 
 
